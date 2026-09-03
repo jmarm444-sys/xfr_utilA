@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+xfr_utilA_config.json
+.DS_Store
+Thumbs.db
+build/
+dist/
+gxfr_utilA.exe
+gxfr_utilA_Setup.exe
+gxfr_utilA_icon_preview.png
