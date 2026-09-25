@@ -1,0 +1,1 @@
+simple date-filtered bulk file transfer utility for transfer between source and destination for windows pc , e.g. everything after this date ----, in folders A B C D etc  to this folder on usb drive or vise versa.
